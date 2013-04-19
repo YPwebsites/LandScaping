@@ -1,24 +1,24 @@
-@import url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/wp-skeleton.css"); /* Upload stylesheet to GFX folder */
+@import url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/wp-skeleton.css"); /* Upload stylesheet to GFX folder */
 
 @font-face {
 	font-family: "Clarendon";
-	src: url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/0283a__.ttf"),
-		 url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/0284a__.ttf");
+	src: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/0283a__.ttf"),
+		 url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/0284a__.ttf");
 }
 
 @font-face {
 	font-family: "Avenir Regular";
-	src: url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/aer____.ttf"),
-		 url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/aero___.ttf"),
-		 url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/aer____.eot"),
-		 url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/aero___.eot");
+	src: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/aer____.ttf"),
+		 url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/aero___.ttf"),
+		 url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/aer____.eot"),
+		 url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/aero___.eot");
 }
 @font-face {
 	font-family: "Avenir Light";
-	src: url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/ael____.ttf"),
-		 url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/aelo___.ttf"),
-		 url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/ael____.eot"),
-		 url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/aelo___.eot");
+	src: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/ael____.ttf"),
+		 url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/aelo___.ttf"),
+		 url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/ael____.eot"),
+		 url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/aelo___.eot");
 }
 
 header, footer, nav, section, article {display: block;}
@@ -33,13 +33,13 @@ body {
 	}
 	body#mysite { 
 		/* Set background image POSITION and REPEAT here! */
-		background-image: url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/bodyBG.jpg");
+		background-image: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/bodyBG.jpg");
 		background-position: top left;
 		background-repeat: repeat;		
 		}
 		
 .skinBg { 
-	background-image:url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/skBG.png");
+	background-image:url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/skBG.png");
 	background-position: center top;
 	background-repeat: no-repeat;
 }		
@@ -282,7 +282,7 @@ p.m-logo {
 	 
  }
  #wrapper-content {
-	 background-image:url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/contentWrapperBG.jpg");
+	 background-image:url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/contentWrapperBG.jpg");
 	 background-repeat: repeat;
 	 background-position: top left;
 	 border-top: 1px solid #8bb72c;
@@ -293,7 +293,7 @@ p.m-logo {
 }
  
 #wrapper-footer {
-	background-image:url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/modNavBG2.jpg");
+	background-image:url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/modNavBG2.jpg");
     box-shadow: 0 10px 7px 0 rgba(0, 0, 0, 0.4);
     z-index: 10;
     border-top: 1px solid #547500;
@@ -304,7 +304,7 @@ p.m-logo {
 	display:inline-block;
 	background-color: #999;
 	padding: 10px 0px;
-	background-image:url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/footerBG.jpg");
+	background-image:url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/footerBG.jpg");
 	
 	}
 
@@ -345,7 +345,7 @@ p.m-logo {
 	display: inline-block;
 	padding:15px 0px;
 	position: absolute;
-	background-image:url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/slidingPhoneNumbBG.png");
+	background-image:url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/slidingPhoneNumbBG.png");
 	background-position: top left;
 	background-repeat: no-repeat;
 	padding: 0px 0px 60px 60px;
@@ -360,7 +360,7 @@ p.m-logo {
 	text-transform:uppercase;
 	color:#fff;	
 	display: block;
-	background-image:url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/slidingPhoneNumbBG2.png");
+	background-image:url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/slidingPhoneNumbBG2.png");
 	background-position: top right;
 	background-repeat: no-repeat;
 	padding: 30px 70px 60px 0;
@@ -368,7 +368,7 @@ p.m-logo {
 }
 	
 #m-phone-number {
-	background-image: url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/slidingPhoneNumbBG.png");
+	background-image: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/slidingPhoneNumbBG.png");
     background-position: left top;
     background-repeat: no-repeat;
     display: none;
@@ -381,7 +381,7 @@ p.m-logo {
 }
 #m-phone-number span {
 	display: block;
-	background-image:url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/slidingPhoneNumbBG2.png");
+	background-image:url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/slidingPhoneNumbBG2.png");
 	background-position: top right;
 	background-repeat: no-repeat;
 	padding: 30px 70px 60px 0;
@@ -402,7 +402,7 @@ p.m-logo {
 /* header image */
 
 #header-image-wrapper-1 {
-	background-image:url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/headerImgFrameBG700.png");
+	background-image:url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/headerImgFrameBG700.png");
 	background-position: center center;
 	background-repeat: no-repeat;
 	width: 684px;
@@ -469,7 +469,7 @@ to best suit your design. */
 
 #menu {
 	padding-bottom: 24px;
-	background-image:url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/navShadow.png");
+	background-image:url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/navShadow.png");
 	background-repeat: no-repeat;
 	background-position: bottom center;
 	position: relative;
@@ -486,14 +486,14 @@ ul#nav {
 	-moz-border-radius: 3px;
 	-webkit-border-radius: 3px;
 	-o-border-radius: 3px;
-	background-image: url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/navBG.jpg");
+	background-image: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/navBG.jpg");
 	background-position: top left;
 	background-repeat: repeat-x;
 	height:58px;
 	}
 @media only screen and (min-width: 768px) and (max-width: 959px) {
 	#menu {
-		background-image: url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/navShadow768.png");	
+		background-image: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/navShadow768.png");	
 	}
 	div#phone-number {
 		left: 10px;
@@ -517,7 +517,7 @@ ul#nav {
 }
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 	#header-image-wrapper-1 {
-		background-image:url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/headerImgFrameBG420.png");
+		background-image:url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/headerImgFrameBG420.png");
 		height: 243px;
 		width: 420px;
 		padding: 0px;
@@ -530,7 +530,7 @@ ul#nav {
 }
 @media only screen and (max-width: 479px) {
 	#header-image-wrapper-1 {
-		background-image:url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/headerImgFrameBG300.png");
+		background-image:url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/headerImgFrameBG300.png");
 		height: 174px;
 		width: 300px;
 		padding: 0px;
@@ -572,7 +572,7 @@ ul#nav {
 		}
 		ul#nav li a:hover,
 		ul#nav li a.hover {
-			background-image: url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/currentPageBG.png");
+			background-image: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/currentPageBG.png");
 			background-position: top left;
 			background-repeat:repeat-x;
 			color: #293e07;
@@ -581,7 +581,7 @@ ul#nav {
 			}
 		 ul#nav li.current > a,
 		ul#nav li.current:hover > a {
-			background-image: url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/modNavBG2.jpg");
+			background-image: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/modNavBG2.jpg");
 			text-shadow: none;
 			color: #D4E427;
 			border-right: none;
@@ -600,7 +600,7 @@ ul#nav {
 		
 		ul#nav li ul li a, ul#nav li.current ul li a { /* second level dropdown buttons */
 			width:200px;
-			background-image: url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/navBG.jpg");
+			background-image: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/navBG.jpg");
     		background-position: left top;
 			border-bottom: 1px solid #456900;
 			line-height:36px;
@@ -656,7 +656,7 @@ ul#nav {
 		top:5px;
 		right:5px;
 		z-index: 800;
-		background-image:url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/icon-menu.png");
+		background-image:url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/icon-menu.png");
 		background-repeat:no-repeat;
 		background-position:top left;
 		background-color:#333;
@@ -708,7 +708,7 @@ ul#nav {
 			}
 			
 		#m-menu ul#nav li a {
-			background-image: url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/m-navBG.jpg");
+			background-image: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/m-navBG.jpg");
 			font-size: 21px;
 			text-decoration: none;
 			line-height:44px; /* line height is better than top and bottom padding */
@@ -725,11 +725,11 @@ ul#nav {
 		#m-menu ul#nav li.current a,
 		#m-menu ul#nav li a:hover {
 		    color: #000;
-			background-image: url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/currentPageBG.png");
+			background-image: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/currentPageBG.png");
 			}
 		#m-menu ul#nav li.current ul li a,
 		#m-menu ul#nav li ul li a {
-			background-image: url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/m-navBG.jpg");
+			background-image: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/m-navBG.jpg");
 		}
 		 
 			
@@ -756,7 +756,7 @@ ul#nav {
 			}
 		
 		#m-menu ul#nav li ul li a:hover, #m-menu ul#nav li.current ul li a:hover { /* second level dropdown button hover state */	
-			background-image: url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/currentPageBG.png");
+			background-image: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/currentPageBG.png");
 
 			color:#000;
 			}
@@ -901,7 +901,7 @@ a.m-click-phone, a.m-click-mail, a.m-click-map {
 	color: #ffffff;
 	padding: 0px 0px;
 	text-align:center;
-	background-image: url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/modNavBG2.jpg");
+	background-image: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/modNavBG2.jpg");
 	-moz-box-shadow: 		0px 1px 3px rgba(000,000,000,0.5), 		inset 0px 0px 1px rgba(255,255,255,0.6);
 	-webkit-box-shadow: 		0px 1px 3px rgba(000,000,000,0.5), 		inset 0px 0px 1px rgba(255,255,255,0.6);
 	box-shadow: 		0px 1px 3px rgba(000,000,000,0.5), 		inset 0px 0px 1px rgba(255,255,255,0.6);
@@ -917,7 +917,7 @@ a.m-click-phone span, a.m-click-mail span, a.m-click-map span {
 	overflow:hidden;
 	text-align:center;
 	margin:0 auto;
-	background-image: url('/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/mobile-panel-icons.png');
+	background-image: url('http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/mobile-panel-icons.png');
 	background-repeat:no-repeat;
 	display:block;
 	padding:0px;
@@ -1068,7 +1068,7 @@ a.m-click-map span{
    	 -webkit-border-radius:3px;
     	border-radius:3px;
 	background-color: transparent;
-	background-image: url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/blueFabBG.jpg");
+	background-image: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/blueFabBG.jpg");
 	box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.5) inset;
 	-webkit-box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.5) inset;
 	color: #fff;
@@ -1126,7 +1126,7 @@ div.widget-button:hover{
 	height: 46px;
 	display: block;
 	margin-bottom: 7px;
-	background: #ddd url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/back-to-top.png") no-repeat center center;
+	background: #ddd url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/back-to-top.png") no-repeat center center;
 	/* rounded corners */
 	-webkit-border-radius: 8px;
 	-moz-border-radius: 8px;
@@ -1228,7 +1228,7 @@ input[type="text"]:focus {
 }
 input[type="submit"] {
 	border: 1px solid #4e8ee5;
-	background-image:url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/blueFabBG.jpg");
+	background-image:url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/blueFabBG.jpg");
 	-webkit-box-shadow: inset 0px 0px 20px 5px rgba( 0, 0, 0, .5);
     box-shadow: inset 0px 0px 20px 5px rgba( 0, 0, 0, .5);
 	border-radius: 3px;
@@ -1399,7 +1399,7 @@ select {
 /* Calculators */
 .calculator-btn { /* match input[type=submit] styling */
 	border: 1px solid #4e8ee5;
-	background-image:url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/blueFabBG.jpg");
+	background-image:url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/blueFabBG.jpg");
 	background-repeat: repeat;
 	-webkit-box-shadow: inset 0px 0px 20px 5px rgba( 0, 0, 0, .5);
     box-shadow: inset 0px 0px 20px 5px rgba( 0, 0, 0, .5);
@@ -1449,12 +1449,12 @@ div.unit-calc li.unit-menu ul.unit-type li a {
 div.unit-calc li.unit-menu ul.unit-type li a.active {
 	color: #D4E427; /* default: blue; */
 	background-color: transparent;/* default: #cccccc; */
-	background-image: url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/modNavBG2.jpg");
+	background-image: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/modNavBG2.jpg");
 }
 div.unit-calc li.unit-menu ul.unit-type li a:hover {
 	color: #456900; /* default: blue; */
 	background-color: transparent; /* default: #cccccc; */
-	background-image: url("/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/currentPageBG.png");
+	background-image: url("http://unpub.stage-sites.yp.com/templates/bubbles/templates_YPwebsites/styles/m_0/01/011/236/gfx/currentPageBG.png");
 	text-decoration: none; /* default: underline; */
 }
 
